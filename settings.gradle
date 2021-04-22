@@ -1,0 +1,3 @@
+include ':toggle'
+include ':app'
+rootProject.name = "ToggleView"
